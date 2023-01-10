@@ -2,6 +2,9 @@
 
 Sviluppatore e appassionato del mondo .NET dal 2015, Microsoft Certified Azure Developer dal 2020, geek da che ne ha memoria. Senior Developer in Blexin, interessato a varie tecnologie Microsoft tra cui Blazor, .NET, C# e servizi Azure. Speaker-wannabe, membro e amante delle community tecniche e non.
 
+## 💬 My live sessions:
+- [<img width="20" src="https://raw.githubusercontent.com/fabio-sp/fabio-sp/main/images/azure.png">&nbsp;<img width="20" src="https://raw.githubusercontent.com/fabio-sp/fabio-sp/main/images/ita_flag.png">&nbsp;&nbsp;16/12/2022 - Xmas Dev 2022 - Arriva Natale, teniamo tutto sotto controllo!](https://youtu.be/U-elMombZo4?t=2484) [(con @Meronz)](https://github.com/meronz)
+
 ## 📫 My written contributions:
 
 - [<img width="20" src="https://raw.githubusercontent.com/fabio-sp/fabio-sp/main/images/blazor.png">&nbsp;<img width="20" src="https://raw.githubusercontent.com/fabio-sp/fabio-sp/main/images/ita_flag.png">&nbsp;&nbsp;BlazorDevIta - Validazione avanzata in Blazor](https://blazordev.it/articoli/validazione-avanzata-in-blazor/)
