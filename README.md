@@ -8,7 +8,7 @@ Speaker-wannabe, membro e amante delle community tecniche e non.
 
 ## 💬 My live sessions:
 - [<img width="20" src="https://raw.githubusercontent.com/fabio-sp/fabio-sp/main/images/dot-net.png">&nbsp;<img width="20" src="https://raw.githubusercontent.com/fabio-sp/fabio-sp/main/images/ita_flag.png">&nbsp;&nbsp;10/03/2023 - DotNetConf 2023 - Output Caching ❤️ Redis: estendere e scalare il nuovo meccanismo di caching di .NET 7](https://www.dotnetconf.it/)
-- [<img width="20" src="https://raw.githubusercontent.com/fabio-sp/fabio-sp/main/images/azure.png">&nbsp;<img width="20" src="https://raw.githubusercontent.com/fabio-sp/fabio-sp/main/images/ita_flag.png">&nbsp;&nbsp;03/03/2023 - SharpCoding 2023 - Salva il tuo matrimonio con Azure App Configuration](https://conf.sharpcoding.it/)
+- [<img width="20" src="https://raw.githubusercontent.com/fabio-sp/fabio-sp/main/images/azure.png">&nbsp;<img width="20" src="https://raw.githubusercontent.com/fabio-sp/fabio-sp/main/images/ita_flag.png">&nbsp;&nbsp;03/03/2023 - SharpCoding 2023 - Salva il tuo matrimonio con Azure App Configuration](https://conf.sharpcoding.it/) <img width="20" src="https://raw.githubusercontent.com/fabio-sp/fabio-sp/main/images/powerpoint.png">[Slides](conferences/20230303_SharpCoding2023/Deck_Azure_App_Configuration.pptx)
 - [<img width="20" src="https://raw.githubusercontent.com/fabio-sp/fabio-sp/main/images/azure.png">&nbsp;<img width="20" src="https://raw.githubusercontent.com/fabio-sp/fabio-sp/main/images/ita_flag.png">&nbsp;&nbsp;16/12/2022 - Xmas Dev 2022 - Arriva Natale, teniamo tutto sotto controllo!](https://youtu.be/U-elMombZo4?t=2484) [(con @Meronz)](https://github.com/meronz)
 
 ## 📫 My written contributions:
