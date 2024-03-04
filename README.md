@@ -8,6 +8,7 @@ Speaker-wannabe, membro e amante delle community tecniche e non.
 
 ## 💬 My live sessions:
 
+- [<img width="20" src="https://raw.githubusercontent.com/fabio-sp/fabio-sp/main/images/blazor.png">&nbsp;<img width="20" src="https://raw.githubusercontent.com/fabio-sp/fabio-sp/main/images/ita_flag.png">&nbsp;&nbsp;01/03/2024 - Sharp Coding 2024 - Fullstack web UI con Blazor](https://conf.sharpcoding.it/program)
 - [<img width="20" src="https://raw.githubusercontent.com/fabio-sp/fabio-sp/main/images/blazor.png">&nbsp;<img width="20" src="https://raw.githubusercontent.com/fabio-sp/fabio-sp/main/images/ita_flag.png">&nbsp;&nbsp;27/01/2024 - .NET Conf 2023 Inn0va - State management in Blazor](https://netconf2023.1nn0va.it/agenda.html) [(con @DiegoZunino)](https://github.com/DiegoZunino) &nbsp; <img width="20" src="https://raw.githubusercontent.com/fabio-sp/fabio-sp/main/images/powerpoint.png">&nbsp; [[Slides](https://github.com/fabio-sp/StateManagement.Demo/blob/master/NetConf2023_1nn0va_StateManagementBlazor.pdf)] <img width="20" src="https://raw.githubusercontent.com/fabio-sp/fabio-sp/main/images/github.svg"> [[Repository]](https://github.com/fabio-sp/StateManagement.Demo)
 
 - [<img width="20" src="https://raw.githubusercontent.com/fabio-sp/fabio-sp/main/images/blazor.png">&nbsp;<img width="20" src="https://raw.githubusercontent.com/fabio-sp/fabio-sp/main/images/ita_flag.png">&nbsp;&nbsp;29/11/2023 - WPC 2023 - State management in una applicazione Blazor: un caso reale](https://www.wpc.education/agenda) [(con @DiegoZunino)](https://github.com/DiegoZunino)
