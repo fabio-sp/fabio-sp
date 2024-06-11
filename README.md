@@ -6,6 +6,8 @@ Senior Developer in Ellycode, interessato a varie tecnologie Microsoft tra cui B
 
 Speaker-wannabe, membro e amante delle community tecniche e non.
 
+Community Manager di Blazor Developer Italiani e membro della board di DotNetCode.
+
 ## 💬 My live sessions:
 
 - [<img width="20" src="https://raw.githubusercontent.com/fabio-sp/fabio-sp/main/images/blazor.png">&nbsp;<img width="20" src="https://raw.githubusercontent.com/fabio-sp/fabio-sp/main/images/ita_flag.png">&nbsp;&nbsp;19/04/2024 - Blazor Conf 2024 - Testing in Blazor: dal componente all'applicazione](https://blazorconf.it) [(con @DiegoZunino)](https://github.com/DiegoZunino) &nbsp;
