@@ -1,6 +1,6 @@
 ## ⚡ Who am I?
 
-Sviluppatore e appassionato del mondo .NET dal 2015, Microsoft Certified Azure Developer dal 2020, geek da che ne ha memoria. 
+Sviluppatore e appassionato del mondo .NET dal 2015, Microsoft MVP dal 2024, geek da che ne ha memoria. 
 
 Senior Developer in Ellycode, interessato a varie tecnologie Microsoft tra cui Blazor, .NET, C# e servizi Azure. 
 
